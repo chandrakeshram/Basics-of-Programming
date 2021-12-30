@@ -7,13 +7,13 @@ int main(){
     cin>>a;
     cout<<"Enter the second no. : "<<endl;
     cin>>b;
-    if(a>b){
-        cout<<a<<" is greater than "<<b<<endl;
+    if(a>b){                                           //Here if the condition in the bracket becomes false then it will go to else if block.
+        cout<<a<<" is greater than "<<b<<endl;         //If not it will execute the code in if part.
     }
     else if(a<b){
         cout<<b<<" is greater than "<<a<<endl;
     }
-    else {
+    else {                                            //If none of the condition becomes true then this part will get executed.
         cout<<"Both numbers are equal "<<endl;
     }
     return 0;
