@@ -43,38 +43,7 @@ int main(){
     
 }
 /*==============OUTPUT=====================
-==========PreIncrementation And PostIncrementation==========
-1.Result Without Incrementation:
-2.Result With PreIncrementation:
-3.Result With PostIncrementation:
-Enter the Choice :
-1
-Result Without Increment :70
-==========PreIncrementation And PostIncrementation==========
-1.Result Without Incrementation:
-2.Result With PreIncrementation:
-3.Result With PostIncrementation:
-Enter the Choice :
-2
-Result Using PreIncrement : 72
-==========PreIncrementation And PostIncrementation==========
-1.Result Without Incrementation:
-2.Result With PreIncrementation:
-3.Result With PostIncrementation:
-Enter the Choice :
-3
-Result Using PostIncrement : 72
-PS C:\Users\Ch@ndr@kesh\ProgrammingBasics> cd "c:\Users\Ch@ndr@kesh\ProgrammingBasics\" ; if ($?) { g++ PreIncrementPostIncrement.cpp -o PreIncrementPostIncrement } ; if ($?) { .\PreIncrementPostIncrement }
-==========PreIncrementation And PostIncrementation==========
-1.Result Without Incrementation:
-2.Result With PreIncrementation:
-3.Result With PostIncrementation:
-4.Result With PreDecrementation:
-5.Result With PostDecrementation:
-Enter the Choice :
-12
-Sorry You have entered an incorrect choice
-PS C:\Users\Ch@ndr@kesh\ProgrammingBasics> cd "c:\Users\Ch@ndr@kesh\ProgrammingBasics\" ; if ($?) { g++ PreIncrementPostIncrement.cpp -o PreIncrementPostIncrement } ; if ($?) { .\PreIncrementPostIncrement }
+
 ==========PreIncrementation And PostIncrementation==========
 1.Result Without Incrementation:
 2.Result With PreIncrementation:
