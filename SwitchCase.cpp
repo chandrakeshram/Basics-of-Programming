@@ -13,7 +13,7 @@ int main(){
     cin>>b;
     cout<<"Enter the operation that you want to perform  : "<<endl;
     cin>>c;
-    switch (c)
+    switch (c)//switch statement is used to when we have multiple of if else conditions
     {
     case '+':
         result =a+b;
