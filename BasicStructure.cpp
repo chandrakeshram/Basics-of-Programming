@@ -9,7 +9,7 @@ int main(){    //Program execution always starts from main function
     cin>>age;
     //cin is used to take input from the user 
     cout<<"Your age is : "<<age<<endl;
-    return 0;//This ends the execution of the program.
+    return 0;//This ends the execution of the program 
 }
 /*=======OUTPUT===============
 Enter the age :
